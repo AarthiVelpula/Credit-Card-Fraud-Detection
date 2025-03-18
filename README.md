@@ -46,25 +46,7 @@ Precision, Recall, and F1-score
 Predictions on Test Data
 
 Applied the trained model on the test dataset
-Saved the predictions in fraud_test_predictions.csv
-How to Run the Project
-Clone the repository
-bash
-Copy
-Edit
-git clone <repository_url>
-cd <repository_name>
-Install required dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Open and run the Jupyter Notebook
-bash
-Copy
-Edit
-jupyter notebook Credit_Card_Fraud_Detection.ipynb
-Review the final fraud predictions stored in fraud_test_predictions.csv
+
 Files in the Repository
 Credit_Card_Fraud_Detection.ipynb → Jupyter Notebook with full implementation
 fraud_test_predictions.csv → Final predictions for test data
